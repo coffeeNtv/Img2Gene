@@ -101,7 +101,7 @@ Our study builds upon previous studies: [TRIPLEX](https://github.com/NEXGEM/TRIP
 Please feel free to cite us if our work could be helpful for your study. Thank you.
 
 ```
-@article{zhang2025img2gene,
+@article{zhang2026img2gene,
   title={Img2Gene: debiased spatially resolved transcriptomics with biological context from pathology images},
   author={Zhang, Wei and Chen, Tong and Xu, Wenxin and Sakal, Collin and Li, Xinyue},
   journal={IEEE Journal of Biomedical and Health Informatics},
