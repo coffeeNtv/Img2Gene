@@ -1,4 +1,4 @@
-# Img2Gene: Debiased spatial gene expression prediction with biological context from pathology images
+# Img2Gene: Debiased spatially resolved transcriptomics with biological context from pathology images
 
 Thank you for your attention of our work. This is the codebase for Img2Gene. Please feel free to raise any question.
 
